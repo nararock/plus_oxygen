@@ -1,4 +1,4 @@
 bin
-.git
-.user
-.vs
+*.git
+*.user
+*.vs
